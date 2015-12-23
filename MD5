@@ -1,0 +1,15 @@
+c62c836b8d7b0b47a580f1474982e4f1 *DESCRIPTION
+496922916aae89443e75613acc5b3705 *NAMESPACE
+84473d60a5941cfd81ce823f4f5c359a *R/ActProp_summary.R
+b4385b15feb6f2c210fc43a2cf6cd323 *R/Activity_summary.R
+2c0876e795a0bb812396ff9c6064b899 *R/MVPA_summary.R
+57c999c6c90bc5a87a2673659a70d813 *R/PA_summary.R
+1f3f2c94ed1d5584efd931b9275522f7 *R/Sed_summary.R
+c9bda5f7577255a19efdcc3334580e13 *R/sampledata.r
+94ee421dd0beeb72df92359ceb2d306e *data/sampledata.rda
+d92dbca5c16cff472dc2678f01317fdc *man/ActProp_summary.Rd
+c3647fcdd13b38da31dc0199e0d75704 *man/Activity_summary.Rd
+d4cf3e427dd3c0320e7057d536aaac60 *man/MVPA_summary.Rd
+895933de11dda3db0299e758be273682 *man/PA_summary.Rd
+f92f83067a9269ffa57cefbcd993d57e *man/sampledata.Rd
+57d624d0137a6fef8c8d86933b671773 *man/sed_summary.Rd
